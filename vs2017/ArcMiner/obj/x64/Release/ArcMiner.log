@@ -1,0 +1,3 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.1.88'
+C:\tools\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Application Type\Linux\1.0\Linux.Makefile.Targets(110,5): error : Cannot copy file 'C:\Users\tlev4\source\repos\arcMiner\.vs\slnx.sqlite' remotely to '/home/tomas/projects/ArcMiner/.vs/slnx.sqlite'
